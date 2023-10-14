@@ -1,0 +1,14 @@
+console.dir(window)
+window.history.length
+console.dir(window.navigator)
+console.dir(document)
+ document.body.children.greeting;
+document.getElementById("two");   // 14-Oct 14-10-2023(4:5PM)
+document.getElementsByTagName.
+document.getElementsByClassName
+
+Creat Calculator
+
+
+
+
